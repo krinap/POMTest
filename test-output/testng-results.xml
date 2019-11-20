@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Learning TestNG" duration-ms="16080" started-at="2019-11-15T00:24:17Z" finished-at="2019-11-15T00:24:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16080" started-at="2019-11-15T00:24:17Z" finished-at="2019-11-15T00:24:33Z">
+      <class name="com.qa.testcases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@4b9e13df]" name="setUp" is-config="true" duration-ms="6685" started-at="2019-11-14T19:24:17Z" finished-at="2019-11-14T19:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pageTitle()[pri:1, instance:com.qa.testcases.LoginTest@4b9e13df]" name="pageTitle" duration-ms="17" started-at="2019-11-14T19:24:24Z" finished-at="2019-11-14T19:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="1955" started-at="2019-11-14T19:24:24Z" finished-at="2019-11-14T19:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@4b9e13df]" name="setUp" is-config="true" duration-ms="4830" started-at="2019-11-14T19:24:26Z" finished-at="2019-11-14T19:24:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginValidation()[pri:2, instance:com.qa.testcases.LoginTest@4b9e13df]" name="loginValidation" duration-ms="1020" started-at="2019-11-14T19:24:31Z" finished-at="2019-11-14T19:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="1554" started-at="2019-11-14T19:24:32Z" finished-at="2019-11-14T19:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Learning TestNG -->
+</testng-results>
